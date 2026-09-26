@@ -6,15 +6,15 @@
 <br/>
 
 ### About Me
-* 💻 Backend focused Software Engineer with a solid fullstack foundation. I specialize in Java, Spring Boot, and crafting resilient REST APIs.
-* 🛠️ Highly comfortable navigating the entire development stack, from modeling complex databases to integrating modern frontends like Angular and Vue.
-* ⚙️ I complement my coding workflow with hands on DevOps, managing my own Proxmox cluster for Docker deployments and CI CD automation.
+* 💻 Backend focused Software Engineer. I spend most of my time building REST APIs with Spring Boot, .NET Core, and FastAPI.
+* 🛠️ Highly comfortable navigating the entire development stack, from modeling (non-)relational databases to integrating modern frontends like Angular.
+* ⚙️ I complement my coding workflow with hands on DevOps, managing my own Proxmox cluster for Docker deployments and CI CD automation. (Soon Kubernetes too.)
 
 <br/>
 
 ### My Arsenal (Frameworks, Tools & Infra)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,postgres,mongo,rabbitmq,docker,jenkins,aws,linux,nginx,terraform,git&theme=light&perline=11" alt="My Tools" />
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,angular,postgres,mongo,rabbitmq,linux,docker,nginx,jenkins,aws,git&theme=light&perline=7" alt="My Tools"/>
 </div>
 
 <br/>
