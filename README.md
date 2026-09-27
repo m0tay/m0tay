@@ -14,7 +14,7 @@
 
 ### My Arsenal (Frameworks, Tools & Infra)
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,angular,postgres,mongo,rabbitmq,linux,docker,nginx,jenkins,aws,git&theme=light&perline=7" alt="My Tools"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,angular,postgres,mongo,rabbitmq,linux,docker,nginx,githubactions,aws,git&theme=light&perline=7" alt="My Tools"/>
 </div>
 
 <br/>
